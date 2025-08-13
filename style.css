@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&display=swap');
+
 :root {
     /* colores de la marca Miniso */
     --rojo: #e61523;
@@ -8,7 +10,7 @@
 }
 p.descripcion {
     font-size: 25px; 
-    font-style: unset; 
+    font-family: "Arimo", sans-serif;
     text-align: center;
     color: #ce6b64;
     background-color: var(--rosa-claro);
@@ -16,7 +18,7 @@ p.descripcion {
 }
 p.tiendas {
     font-size: 20px;
-    font-style: inherit;
+    font-family: "Arimo", sans-serif;
     text-align: center;
     
 }
@@ -29,4 +31,7 @@ h1 {
 }
 .logo { 
     text-align: center;
+}
+.producto {
+text-align: center;
 }

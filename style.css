@@ -1,0 +1,32 @@
+:root {
+    /* colores de la marca Miniso */
+    --rojo: #e61523;
+    --blanco: #ffffff;
+    --rosa-quemado: #ce6b64;
+    --rosa: #F79999;
+    --rosa-claro: #FDE4E2;
+}
+p.descripcion {
+    font-size: 25px; 
+    font-style: unset; 
+    text-align: center;
+    color: #ce6b64;
+    background-color: var(--rosa-claro);
+
+}
+p.tiendas {
+    font-size: 20px;
+    font-style: inherit;
+    text-align: center;
+    
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    color: rgb(255, 255, 255);
+    background-color: var(--rojo);
+    text-align: center;
+    font-size: 50px;
+}
+.logo { 
+    text-align: center;
+}

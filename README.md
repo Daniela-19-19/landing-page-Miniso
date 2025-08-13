@@ -5,8 +5,12 @@ El objetivo de este sitio web es presentar el nuevo producto que va a lanzar min
 
 ## Colores de la marca
 Colores primarios de Miniso
-- #e61523
-- #ffffff
+- #e61523 - rojo
+- #ffffff - blanco
+- #ce6b64 - rosa-quemado
+- #F79999 - rosa
+- #FDE4E2 - rosa-claro
+
 
 ### Tipografia
 La tipografia de Miniso fue hecha a mano, quiere decir que tienen su fuente es única así que usaré esta parecida
@@ -19,7 +23,11 @@ Quién: ¿Quién es el usario objetivo?
 
 Qué necesita: ¿Qué problema tiene o qué necesita resolver?
 
-Qué ofrece tu producto: 
+Qué ofrece tu producto: ¿Cómo lo ayudas de forma única?
+
+Beneficio final:¿Qué gana el usuario?
+
+Ejemplo de historia de usuario convertida en propósito:
 
 ### Diseño Visual
 

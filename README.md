@@ -21,6 +21,8 @@ Designed by Vernon Adams
 
 Quién: ¿Quién es el usario objetivo?
 
+
+
 Qué necesita: ¿Qué problema tiene o qué necesita resolver?
 
 Qué ofrece tu producto: ¿Cómo lo ayudas de forma única?

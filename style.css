@@ -54,4 +54,27 @@ text-align: center;
     color: var(--rosa-quemado);
     background-color: var(--rosa-claro);
     text-align: center;
+    padding: 10px 0;
+}
+.producto ul {
+    list-style: none;
+    margin: 0;
+    padding: 0%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+.producto li {
+    padding: 8px 16px;
+    border-radius: 20px;
+    background-color: var(--blanco);
+    color: var(--rosa-quemado);
+    cursor: pointer;
+    transition: background 0.3s, color 0.3s;
+    font-size: 16px;
+}
+.producto li:hover {
+    background: var(--rosa);
+    color: var(--blanco);
 }

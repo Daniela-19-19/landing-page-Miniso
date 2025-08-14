@@ -28,7 +28,21 @@ h1 {
     background-color: var(--rojo);
     text-align: center;
     font-size: 50px;
+    opacity: 2;
+    animation: fadeInH1 2s ease-in forwards;
 }
+
+@keyframes fadeInH1 {
+    from{
+        opacity: 0,9;
+        transform: translateY(-30px);
+    }
+    to { 
+        opacity: 0,9;
+        transform: translateY(0);
+    }
+}
+
 .logo { 
     text-align: center;
 }

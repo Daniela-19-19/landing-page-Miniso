@@ -20,13 +20,13 @@ Designed by Vernon Adams
 ### Propósito (metodología de historia de usuario)
 
 Quién: ¿Quién es el usario objetivo?
-Personas que quieren investigar y saber mas sobre los productos que maneja miniso, precios e información sobre esa tienda.
+Personas que quieren investigar, saber mas sobre los productos y recomendaciones que maneja miniso, mejores precios e información sobre Miniso.
 Qué necesita: ¿Qué problema tiene o qué necesita resolver?
-Muchas veces la pagina virtual original de Miniso es un poco compleja de manejar o a veces no carga, entonces para poder revisar bien los productos y hacer la respectiva compra.
+Muchas veces la pagina virtual original de Miniso es un poco compleja de manejar o a veces no carga, entonces para poder revisar a fondo las especificaciones de los productos y hacer la respectiva compra.
 Qué ofrece tu producto: ¿Cómo lo ayudas de forma única?
-Tiene una manera facil de manejar y visualmente es mas facil de encontrar las cosas
+na pagina web donde a a tener una forma facil de manejar y visualmente menos compleja de encontrar las cosas.
 Beneficio final:¿Qué gana el usuario?
-Poder hacer compras con mayor facilidad o buscar productos de una manera mas accequible.
+Poder hacer compras con mayor facilidad, encontrar mejores precios o buscar productos de una manera mas asequible.
 Ejemplo de historia de usuario convertida en propósito:
 
 ### Diseño Visual

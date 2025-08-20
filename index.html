@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Landing Page Miniso</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -25,6 +25,33 @@
             <li>snacks y bebidas</li>
         </ul>
     </nav>
+<div class="cajas-producto">
+    <div class="caja">
+        <img src="cajasorpresa.webp" alt="juguetes y peluches" width="120">
+        <button onclick="scrollToProducto (0)">Ir a Juguetes y peluches</button>
+    </div>
+    <div class="caja">
+        <img src="minimalist1.webp" alt="Cuidado personal y belleza" width="120">
+        <button onclick="scrollToProducto (1)">Ir a Cuidado personal y belleza</button>
+    </div>
+    <div class="caja">
+        <img src="guantes.webp" alt="Moda y accesorios" width="120">
+        <button onclick="scrollToProducto (2)">Ir a Moda y accesorios</button>
+    </div>
+    <div  class="caja">
+        <img src="corderito pink.webp" alt="juguetes y peluches" width="120">
+        <button onclick="scrollToProducto (3)">Ir a Juguetes y peluches</button>
+    </div>
+
+    <script>
+        function scrollToProducto(index) {
+            const items = document.querySelectorAll(".producto ul li");
+            if (items[index]) {
+                items[index].scrollIntoView({ behavior: "smooth", block: "center" });
+            }
+        }
+    </script>
+</div>
     <div class="peluche">
         <img src="peluche.webp" alt="producto" width="100px">
     </div>
